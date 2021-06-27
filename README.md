@@ -1,6 +1,8 @@
 # Open Toontown
 This repository contains the code for Open Toontown, based on the latest version of Disney's Toontown Online (sv1.0.47.38).
 
+DISCLAIMER: This repository may have differences from the main repository. If you wish to use the main repository, [here it is](https://github.com/open-toontown/open-toontown).
+
 # Setup
 After cloning the repository, you will need to clone the [resources](https://github.com/open-toontown/resources) repository inside the directory where you cloned the source repo.
 
